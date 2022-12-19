@@ -1,0 +1,27 @@
+body {
+  background-color:lightslategrey;
+  
+}
+
+.titulo {
+  background-image: url("https://i.pinimg.com/600x315/fa/19/83/fa1983be614d35f930b919d03172d590.jpg");
+  background-repeat: no-repeat;
+  background-position: right center;
+  width: 600px;
+  height: 217px;
+
+}
+
+#app {
+  background-color:steelblue;
+}
+
+td {
+  border: 1px solid rgb(1, 1, 1);
+  text-align: center;
+}
+
+th {
+  background-color:seashell;
+  border: 2px solid rgb(1, 1, 1);
+}
